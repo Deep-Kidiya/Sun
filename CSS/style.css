@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+
+/* Header */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #57B33E;
+}
+
+.h-contact {
+    margin: 0 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+.mid a {
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #fff;
+    padding: 0 0 0 20px;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.social a {
+    color: #fff;
+    font-size: 20px;
+    padding: 0 10px;
+}
+ 
+.image img {
+    position: absolute;
+    top: -4px;
+    margin-left: -15px;
+}
+
+.nav {
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    box-shadow: 0px 4px 5px -7px;
+    position: relative;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #000;
+    font-size: 25px;
+    margin-left: 35px;
+    transition: all 0.3s ease;
+}
+
+.nav a:hover {
+    color: #57B33E ;
+}
+
+.btn {
+    top: 76px;
+    left: 1341px;
+    padding: 22px 68px;
+    font-size: 15px;
+    border-radius: 12px;
+    border: 1px solid transparent;
+    position: absolute;
+    background: #57B33E;
+    color: #fff;
+}
+
+.btn:hover {
+    border-color: #57B33E;
+    color: #000;
+    background: transparent;
+
+}
+
+/* End of Header */
+
+/* Heading */
+
+.heading {
+    position: relative;
+}
+
+.heading .sun-img img {
+    height: 600px;
+    top: 18px;
+    right: 200px;
+    position: absolute;
+}
+
+.heading .e-img img {
+    height: 670px;
+}
+
+.heading .text {
+    top: 143px;
+    left: 360px;
+    position: absolute;
+}
+
+.heading .text h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #57B33E;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.heading .text h2 {
+    font-family: 'Teko', sans-serif;
+    line-height: 1;
+    font-size: 80px;
+    font-weight: 400;
+    padding: 0 0 30px 0;
+    margin-top: 20px;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgb(117, 117, 117) ;
+} 
+
+.heading .text p {
+    line-height: 35px;
+    color: rgb(112, 112, 112);
+    font-size: 19px;
+    font-weight: 400;
+    padding: 30px 0 30px 0;
+}
+
+.heading .btn {
+    top: 513px;
+    left: 360px;
+}
+
+/* End of Heading */
+
