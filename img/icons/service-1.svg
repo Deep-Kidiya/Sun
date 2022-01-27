@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.799" height="60" viewBox="0 0 59.799 60">
+  <g id="Solar_plant" data-name="Solar plant" transform="translate(-2.1 -2)">
+    <path id="Path_78401" data-name="Path 78401" d="M61.606,36.636a1,1,0,0,0,0-1.414l-2.828-2.828a1,1,0,0,0-1.414,0l-16.97,16.97a1,1,0,0,0,0,1.414l2.828,2.828a1,1,0,0,0,1.414,0L50,48.242V53H49a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h7a1,1,0,0,0,1-1V54a1,1,0,0,0-1-1H55V43.242ZM43.929,51.485l-1.414-1.414L58.071,34.515l1.414,1.414ZM55,60H50V55h5Zm-2-7H52V46.242l1-1Z" fill="#57b33e"/>
+    <path id="Path_78402" data-name="Path 78402" d="M36,53H35V43.242l6.606-6.606a1,1,0,0,0,0-1.414l-2.828-2.828a1,1,0,0,0-1.414,0l-16.97,16.97a1,1,0,0,0,0,1.414l2.828,2.828a1,1,0,0,0,1.414,0L30,48.242V53H29a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h7a1,1,0,0,0,1-1V54A1,1,0,0,0,36,53ZM23.929,51.485l-1.414-1.414L38.071,34.515l1.414,1.414ZM32,46.242l1-1V53H32ZM35,60H30V55h5Z" fill="#57b33e"/>
+    <path id="Path_78403" data-name="Path 78403" d="M18,53H17V43.244l6.607-6.607a1,1,0,0,0,0-1.414l-2.83-2.83a1,1,0,0,0-1.414,0L2.393,49.363a1,1,0,0,0,0,1.414l2.83,2.83a1,1,0,0,0,1.414,0L12,48.244V53H11a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h7a1,1,0,0,0,1-1V54a1,1,0,0,0-1-1ZM5.93,51.486,4.514,50.07,20.07,34.514l1.416,1.416-6.193,6.193-3,3ZM14,46.244l1-1V53H14ZM17,60H12V55h5Z" fill="#57b33e"/>
+    <path id="Path_78404" data-name="Path 78404" d="M32,20a7,7,0,1,0-7-7,7,7,0,0,0,7,7ZM32,8a5,5,0,1,1-5,5A5,5,0,0,1,32,8Z" fill="#57b33e"/>
+    <path id="Path_78405" data-name="Path 78405" d="M31,2h2V4H31Z" fill="#57b33e"/>
+    <path id="Path_78406" data-name="Path 78406" d="M38.071,4.929h2v2h-2Z" transform="translate(7.251 29.364) rotate(-45)" fill="#57b33e"/>
+    <path id="Path_78407" data-name="Path 78407" d="M41,12h2v2H41Z" fill="#57b33e"/>
+    <path id="Path_78408" data-name="Path 78408" d="M38.071,19.071h2v2h-2Z" transform="translate(-2.749 33.506) rotate(-45)" fill="#57b33e"/>
+    <path id="Path_78409" data-name="Path 78409" d="M31,22h2v2H31Z" fill="#57b33e"/>
+    <path id="Path_78410" data-name="Path 78410" d="M23.929,19.071h2v2h-2Z" transform="translate(-6.891 23.506) rotate(-45)" fill="#57b33e"/>
+    <path id="Path_78411" data-name="Path 78411" d="M21,12h2v2H21Z" fill="#57b33e"/>
+    <path id="Path_78412" data-name="Path 78412" d="M23.929,4.929h2v2h-2Z" transform="translate(3.109 19.364) rotate(-45)" fill="#57b33e"/>
+  </g>
+</svg>
